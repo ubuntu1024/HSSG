@@ -1,0 +1,2 @@
+ This folder is used to store the vector of differences between cancer samples and normal samples under a single gene.
+#Calculate the vector of differences between cancer samples and all normal samples at each gene(the vectors of all cancer samples are clustered into a matrix under each gene).
